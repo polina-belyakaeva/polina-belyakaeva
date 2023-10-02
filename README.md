@@ -8,17 +8,17 @@ Currently I'm studying at the Hexlet programming school to acquire a strong foun
 
 :computer: Technical Skills:  
 
-HTML  
+* HTML  
 
-CSS, BEM methodology  
+* CSS, BEM methodology  
 
-JavaScript (JS)  
+* JavaScript (JS)  
 
-GitHub (GitHub Actions, GitHub workflow)  
+* GitHub (GitHub Actions, GitHub workflow)  
 
-Lodash library  
+* Lodash library  
 
-Jira, Confluence  
+* Jira, Confluence  
 
 :bulb: Tools and Platforms:  
 
